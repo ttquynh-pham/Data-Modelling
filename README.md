@@ -6,3 +6,5 @@
 2. Build Conceptual Model
 3. Build Logical Model
 4. Build Physical Model
+
+#### Use PostgreSQL
