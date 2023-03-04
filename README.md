@@ -1,5 +1,5 @@
 ## Data-Modelling
-### My projects to learn & practice about data modelling
+### My projects for learning & practicing data modelling
 
 #### Step to design database:
 1. Build Conceptual Model
