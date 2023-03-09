@@ -5,7 +5,7 @@
 ### Download and Setup
 1. Database Creation
 2. Query information
-3. Create function
+3. Create function, view
 ### Data modelling techniques:
 - NF1: atomic values
 - NF2: atrributes dependence on primary key in a table
